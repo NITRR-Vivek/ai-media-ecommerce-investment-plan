@@ -77,3 +77,8 @@
 4. Long-Term Strategic Planning
     - Use the insights gained from the current models to predict future trends in user behavior and ad performance
 
+## Contributors
+
+- **[Vivek Kumar](https://github.com/NITRR-Vivek)**
+- **[Aashutosh Patel](https://github.com/AashuPatel)**
+- **[Deepanshu Patel](https://github.com/Deepanshu9229)**
