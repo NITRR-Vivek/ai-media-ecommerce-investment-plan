@@ -4,7 +4,7 @@
 > An AI-driven media investment plan for e-commerce businesses. Based on this analysis, re-allocate the budget across various paid media channels to optimize customer acquisition and conversion rates.
 
 > [!IMPORTANT]  
-> We are first making our solution and uploaded as `code1.ipynb` as you can see but a day after uploading it, a Team named [Dual Delight](https://github.com/SAGARGAUD01/AI-Driven-Media-Investment-Plan-) copied the whole project and make it as their own work. so we are diappointed and then again started working fresh and made this project which you can see in `Dazzle-DAV.ipynb` file.
+> We are first making our solution and uploaded as `code1.ipynb` as you can see but a day after uploading it, a Team named [`Dual Delight`](https://github.com/SAGARGAUD01/AI-Driven-Media-Investment-Plan-) copied the whole project and make it as their own work. so we are diappointed and then again started working fresh and made this project which you can see in `Dazzle-DAV.ipynb` file.
 
 ## Our Solution Approach 
 > to see our project please open `Dazzle-DAV.ipynb`.
